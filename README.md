@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxLikesCode
 - 👀 I’m interested in designing and coding
 - 💞️ I’m looking to collaborate on anything exciting
-- 📫 How to reach me max.giess@googlemail.com
+- 📫 How to reach me: max.giess@googlemail.com
 
 <!--- 🌱 I’m currently learning Vue and Python-->
 <!---
