@@ -15,7 +15,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" />
 </p>
   
-###### Web Technologies
+###### Web
 
 <p>
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
