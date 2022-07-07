@@ -29,9 +29,9 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
-<img alt="ChartJS" src="https://img.shields.io/badge/-ChartJS-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+<img alt="ChartJS" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
 </p>
 
