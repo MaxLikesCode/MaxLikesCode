@@ -53,9 +53,12 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
-###### Systems
+###### OS / SBC / MCU
 
 <p>
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=white" />
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 </p>
@@ -79,6 +82,12 @@ I'm a full stack developer from Germany, always looking to build something cool.
 ###### Deployment
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+</p>
+
+###### Project Management
+<p>
+<img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </p>
 
 ###### Tools
