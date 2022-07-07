@@ -42,6 +42,8 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3776AB?style=flat&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ###### API Frameworks
@@ -67,13 +69,21 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="CLion" src="https://img.shields.io/badge/-CLion-da438c?style=flat&logo=clion&logoColor=white" />
 </p>
 
-###### Other
-
+###### Version Control (Platforms)
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-222222?style=flat&logo=github&logoColor=white" />
 <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+</p>
+
+###### Deployment
+<p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+</p>
+
+###### Tools
+
+<p>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 </p>
