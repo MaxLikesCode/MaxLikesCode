@@ -33,6 +33,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
+<img alt="JSON/REST" src="https://img.shields.io/badge/-JSON / REST-000000?style=flat&logo=json&logoColor=white" />
 </p>
 
 ###### Databases
