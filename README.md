@@ -27,6 +27,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img alt="ts-node" src="https://img.shields.io/static/v1?style=flat&message=ts-node&color=3178C6&logo=ts-node&logoColor=FFFFFF&label=" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
@@ -93,7 +94,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </p>
 
-###### Tools
+###### Misc
 
 <p>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
