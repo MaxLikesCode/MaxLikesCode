@@ -53,7 +53,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <p>
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask (RESTful)-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
 ###### OS / SBC / MCU
