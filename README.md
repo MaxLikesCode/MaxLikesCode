@@ -37,7 +37,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="JSON/REST" src="https://img.shields.io/badge/-JSON / REST-000000?style=flat&logo=json&logoColor=white" />
 </p>
 
-###### Databases
+###### DBMS | SQL & NoSQL
 
 <p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
