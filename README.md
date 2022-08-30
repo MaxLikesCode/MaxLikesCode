@@ -20,6 +20,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <p>
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
 <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-222222?style=flat&logo=nuxt.js&logoColor=00DC82" />
+<img alt="React" src="https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
