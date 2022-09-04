@@ -87,6 +87,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 ###### Deployment
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
 ###### Project Management
