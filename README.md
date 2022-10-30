@@ -15,7 +15,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" />
 </p>
   
-###### Web
+###### Web Frameworks / Technologies
 
 <p>
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
@@ -29,6 +29,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="ts-node" src="https://img.shields.io/static/v1?style=flat&message=ts-node&color=3178C6&logo=ts-node&logoColor=FFFFFF&label=" />
+<img alt="nodemon" src="https://img.shields.io/static/v1?style=flat&message=nodemon&color=222222&logo=nodemon&logoColor=76D04B&label=" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
@@ -77,6 +78,12 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="CLion" src="https://img.shields.io/badge/-CLion-da438c?style=flat&logo=clion&logoColor=white" />
 </p>
 
+###### CMS
+
+<p>
+<img alt="hygraph" src="https://img.shields.io/badge/-hygraph-black?style=flat&logo=graphql&logoColor=white" />
+</p>
+
 ###### Version Control (Platforms)
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -95,6 +102,11 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </p>
+
+###### Interface Design
+<p>
+ <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+ </p>
 
 ###### Misc
 
