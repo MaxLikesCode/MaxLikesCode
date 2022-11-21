@@ -36,6 +36,7 @@ I'm a full stack developer from Germany, always looking to build something cool.
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 <img alt="ChartJS" src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="JWT" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=for-the-badge&logo=JSON+Web+Tokens&logoColor=FFFFFF" />
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img alt="JSON/REST" src="https://img.shields.io/badge/-JSON / REST-000000?style=for-the-badge&logo=json&logoColor=white" />
