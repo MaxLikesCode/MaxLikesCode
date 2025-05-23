@@ -4,6 +4,8 @@
 I'm a full stack developer from Germany, always looking to build something cool.
 </p>
 
+<a href="https://app.daily.dev/maxlikescode"><img src="https://api.daily.dev/devcards/v2/mniYExcRAc5mAYRQQsOc8.png?type=wide&r=gzv" width="652" alt="Max's Dev Card"/></a>
+
 ### My Tech Stack 👨‍💻
 
 ###### Programming Languages / Backend
