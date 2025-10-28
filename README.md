@@ -6,6 +6,8 @@ I'm a full stack developer from Germany, always looking to build something cool.
 
 <a href="https://app.daily.dev/maxlikescode"><img src="https://api.daily.dev/devcards/v2/mniYExcRAc5mAYRQQsOc8.png?type=wide&r=gzv" width="652" alt="Max's Dev Card"/></a>
 
+[![An image of @maxlikescode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxlikescode)](https://holopin.io/@maxlikescode)
+
 ### My Tech Stack 👨‍💻
 
 ###### Programming Languages / Backend
@@ -76,16 +78,19 @@ I'm a full stack developer from Germany, always looking to build something cool.
 ###### IDEs
 
 <p>
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-1bd88a?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img alt="CLion" src="https://img.shields.io/badge/-CLion-da438c?style=for-the-badge&logo=clion&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-1bd88a?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-CLion-da438c?style=for-the-badge&logo=clion&logoColor=white" />
 </p>
 
 ###### CMS
 
 <p>
-<img alt="hygraph" src="https://img.shields.io/badge/-hygraph-black?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img alt="Directus" src="https://img.shields.io/badge/-Directus-263238?style=for-the-badge&logo=directus&logoColor=white" />
+  <img alt="Hygraph" src="https://img.shields.io/badge/-Hygraph-000000?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 ###### Version Control (Platforms)
@@ -97,20 +102,24 @@ I'm a full stack developer from Germany, always looking to build something cool.
 
 ###### Deployment
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ###### Project Management
 <p>
-<img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img alt="ClickUp" src="https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img alt="Linear" src="https://img.shields.io/badge/-Linear-000000?style=for-the-badge&logo=linear&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000" />
 </p>
 
 ###### Interface Design
 <p>
- <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
- </p>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+</p>
 
 ###### Misc
 
