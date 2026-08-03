@@ -16,7 +16,7 @@ Full Stack Developer from Hamburg, Germany
 
 I’m a generalist developer. I work across whatever a project needs: web apps, mobile apps, infrastructure, IoT prototypes, and everything in between.
 
-Currently studying Computer Science at Hochschule Darmstadt.
+Graduated with a Bachelor of Science in Computer Science from Hochschule Darmstadt.
 
 ---
 
